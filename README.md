@@ -39,7 +39,7 @@ public class HDFSUpload
 ````
 ## Assignment 2
 #### Goal: Run Spark RDD jobs and observe run times
-#### Analyzing tuples and response codes in a TSV file to count number of bytes and join conditions
+#### Analyzing tuples and response codes in a TSV file to count number of bytes. Complete join on conditions.
 #### cs226-asg2-dnguy521/src/main/java/edu/ucr/cs/cs226/dnguy521/RDDJobs.java
 ````java
 public class RDDJobs

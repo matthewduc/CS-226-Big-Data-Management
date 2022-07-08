@@ -1,0 +1,9 @@
+nguyen@Ducs-MBP-3 assignment1 % hadoop jar target/assignment1-1.0-SNAPSHOT.jar edu.ucr.cs.cs226.dnguy521.HDFSUpload file:///Users/nguyen/Workspace/assignment1/AREAWATER.csv HDFSUploadCopy
+2020-11-12 14:04:32,126 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Runtime: 4 seconds
+nguyen@Ducs-MBP-3 assignment1 % hadoop jar target/assignment1-1.0-SNAPSHOT.jar edu.ucr.cs.cs226.dnguy521.HDFSUpload HDFSUploadCopy file:///Users/nguyen/Workspace/assignment1/fromHDFS.csv
+2020-11-12 14:05:09,716 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Runtime: 5 seconds
+nguyen@Ducs-MBP-3 assignment1 % hadoop jar target/assignment1-1.0-SNAPSHOT.jar edu.ucr.cs.cs226.dnguy521.HDFSUpload file:///Users/nguyen/Workspace/assignment1/AREAWATER.csv file:///Users/nguyen/Workspace/assignment1/fromLOCAL.csv
+2020-11-12 14:05:53,451 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Runtime: 5 seconds

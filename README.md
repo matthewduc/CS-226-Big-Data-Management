@@ -1,7 +1,7 @@
 # CS-226-Big-Data-Management
 ## Assignment 1
 #### Goals: Hadoop Setup, understand and use HDFS APIs, Compare performace of HDFS to local file system
-#### If input file exists, copy file using IOUtils.copeBytes, else return DNE input path
+#### If input file exists, copy file using IOUtils.copyBytes, else return DNE input path
 #### cs226-asg1-dnguy521/HDFSUpload.java
 ````java
 public class HDFSUpload
